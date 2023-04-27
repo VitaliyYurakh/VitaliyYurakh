@@ -20,3 +20,5 @@
 </h1>
 
 ### 👨‍💻About Me:
+
+I am a Front End Developer from Ukraine.💙💛
