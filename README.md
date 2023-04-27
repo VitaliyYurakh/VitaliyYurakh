@@ -22,3 +22,7 @@
 ### 👨‍💻About Me:
 
 I am a Front End Developer from Ukraine.💙💛
+
+- First item
+- Second item
+- Third item
