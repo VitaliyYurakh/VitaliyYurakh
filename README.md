@@ -49,3 +49,5 @@ I am a Front End Developer from Ukraine.💙💛
 ---
 
 ### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyYurakh)](https://github.com/anuraghazra/github-readme-stats)
