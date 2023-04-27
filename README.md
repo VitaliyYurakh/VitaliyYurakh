@@ -12,3 +12,6 @@
     <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VitaliyYurakh&style=flat-square&color=blue" alt=""/>
+</div>
