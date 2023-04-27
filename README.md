@@ -24,5 +24,6 @@
 I am a Front End Developer from Ukraine.💙💛
 
 - 🖥 As a Frontend Developer, I specialize in building visually appealing and interactive web interfaces that engage users and enhance their experience.
-- My role as a Frontend Engineer involves using my technical skills to translate design concepts into functional web applications that are easy to navigate and use.
-- As a Frontend Programmer, I collaborate closely with designers and developers to ensure that web applications are both visually appealing and technically sound, delivering the best possible user experience to our clients and customers.
+- 💡 My role as a Frontend Engineer involves using my technical skills to translate design concepts into functional web applications that are easy to navigate and use.
+- 🔗 As a Frontend Programmer, I collaborate closely with designers and developers to ensure that web applications are both visually appealing and technically sound, delivering the best possible user experience to our clients and customers.
+- 📩 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vitaliy-yurakh/)
