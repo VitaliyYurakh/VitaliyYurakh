@@ -15,9 +15,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VitaliyYurakh&style=flat-square&color=blue" alt=""/>
 </div>
-<h1 align="center">
+<div align="center">
+  <h1 align="center">
   Hey there 👋
 </h1>
-<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
