@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/vitaliy-yurakh/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logoColor=white">
+  <a href="https://vitaliyyurakh.github.io/">
     <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
