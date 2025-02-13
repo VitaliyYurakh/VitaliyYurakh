@@ -18,7 +18,7 @@
 
 ### 👨‍💻About Me:
 
-I am a Front End Developer from Ukraine.💙💛
+I am a Front End Developer from Ukraine  💙💛
 
 - 🖥 As a Frontend Developer, I specialize in building visually appealing and interactive web interfaces that engage users and enhance their experience.
 - 💡 My role as a Frontend Engineer involves using my technical skills to translate design concepts into functional web applications that are easy to navigate and use.
