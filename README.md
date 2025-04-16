@@ -51,3 +51,6 @@ I am a Front End Developer from Ukraine  💙💛
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VitaliyYurakh&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliyYurakh)](https://github.com/anuraghazra/github-readme-stats)
+
+
+https://chatgpt.com/share/67ff6b31-1570-8010-91e5-a965730cb079
